@@ -13,6 +13,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>azure-demo-services</name>
     <description>azure-demo-services</description>
+    <packaging>jar</packaging>
+
     <url/>
     <licenses>
         <license/>
