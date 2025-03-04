@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: azure-demo-services
+  datasource:
+    url: ""
+    username: ""
+    password: ""
+    driver-class-name: ""
+  jpa:
+    database-platform: ""
+    hibernate:
+      ddl-auto: none
+    show-sql: false
+  sql:
+    init:
+      mode: never
+server:
+  port: 8080
